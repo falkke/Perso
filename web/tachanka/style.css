@@ -1,0 +1,18 @@
+#fete{
+	position: 			absolute;
+	z-index:			2;
+}
+
+#lord{
+	left:				33%;
+	position: 			absolute;
+	z-index:			1;
+	background-color:	black;
+	width: 				700px;
+	height: 			1000px;
+	/*transition-duration: 60s;*/
+}
+
+body{
+	background-color:	black;
+}
